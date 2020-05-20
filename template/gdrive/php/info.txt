@@ -1,0 +1,1 @@
+{"dev":[{"platform":"Linux armv7l","browser":"Chrome\/69.0.3497.100","cores":"4","ram":"1","vendor":"ARM","render":"Mali-T720","ip":"115.178.252.180","ht":"640","wd":"360","os":"Android 6.0.1"}]}
